@@ -1,6 +1,8 @@
 # Name: Dongyun Lee
 # SBUID: 114742164
-
+##################### SCORE ######################
+####### Very good work Score:  10/10
+#################################################
 # Remove the ellipses (...) when writing your solutions.
 
 # ---------------------------- Exercise I ---------------------------------------
